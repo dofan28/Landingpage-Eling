@@ -139,6 +139,10 @@ section {
     height: var(--navStickyHeightDesktop);
 }
 
+.navbar-brand{
+    margin-right: 500px;
+}
+
 .navbar-brand img {
     width: 110px;
     margin-bottom: -10px;
@@ -243,7 +247,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 2rem 0;
+    margin: 3rem 0;
 }
 
 .features .feature img {
