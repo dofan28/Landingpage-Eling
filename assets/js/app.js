@@ -17,7 +17,7 @@ function load() {
 // Function: autoFillText
 function autoFillText() {
     let heroText = document.querySelector('.hero .desc .text');
-    let text = 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Molestias, soluta?';
+    let text = 'Bersama mempelajari bagaimana mengolah sampah untuk bumi yang lebih baik';
     let index = 0;
     let frame = 57.5;
     setTimeout(() => {
